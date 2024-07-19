@@ -13,7 +13,7 @@ This repository is structured as follows:
 The purpose of this repository is to provide a collaborative space for development and improvement of the Afrochat platform. By making the repository publicly accessible, we aim to foster community engagement, allowing developers, contributors, and users to explore the codebase, report issues, and suggest enhancements.
 
 ## How Generative AI Models Power Afrochat
-AfroChat leverages the integration of multiple AI models to different services (Gemini, GPT-4, Claude, Dalle-3, etc.), to create an engaging and informative conversation. Key features include:
+YoungSolver leverages the integration of multiple AI models to different services (Gemini, GPT-4, Claude, Dalle-3, etc.), to create an engaging and informative conversation. Key features include:
 - Simplified and user-friendly interface
 - Real-time Internet search integration for updated information
 - Versatile use cases including text generation, image creation, and more.
